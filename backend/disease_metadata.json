@@ -1,0 +1,102 @@
+{
+  "Healthy": {
+    "description": "No significant disease signatures detected. Foliage color, texture, and lesion patterns appear consistent with healthy tissue.",
+    "prevention": "Continue balanced nutrition, crop rotation, sanitation, and scouting. Avoid overhead irrigation during prolonged leaf wetness.",
+    "cure": "No treatment required. Maintain current agronomic practices and monitor weekly during high-risk periods."
+  },
+  "Tomato Early Blight": {
+    "description": "Alternaria solani typically produces concentric ring lesions on older leaves, yellow halos, and stem collar lesions under humid conditions.",
+    "prevention": "Stake plants for airflow, mulch soil to reduce splash, rotate solanaceous crops 3+ years, and remove infected debris.",
+    "cure": "Apply labeled fungicides (chlorothalonil, azoxystrobin, mancozeb rotations per local guidance) at first symptom; remove severely infected lower leaves."
+  },
+  "Tomato Late Blight": {
+    "description": "Phytophthora infestans causes water-soaked patches that expand rapidly with white sporulation on leaf undersides in cool, wet weather.",
+    "prevention": "Use resistant cultivars where available, improve drainage, avoid dense canopies, and destroy volunteer tomatoes/potatoes.",
+    "cure": "Systemic fungicides (metalaxyl/mefenoxam, mandipropamid, fluopicolide) per label; remove infected plants in small gardens to slow spread."
+  },
+  "Tomato Leaf Mold": {
+    "description": "Passalora fulva favors high humidity and poor ventilation, showing yellow upper surfaces and olive mold on undersides.",
+    "prevention": "Greenhouse ventilation/dehumidification, wider spacing, drip irrigation, and resistant varieties in protected culture.",
+    "cure": "Labeled fungicides (strobilurins, SDHIs) plus canopy management; increase airflow before chemical reliance alone."
+  },
+  "Tomato Septoria Leaf Spot": {
+    "description": "Septoria lycopersici presents small circular spots with dark borders and tan centers, often starting on lowest leaves after rain splash.",
+    "prevention": "Mulch, stake, avoid working wet foliage, rotate crops, and sanitize tools between plants.",
+    "cure": "Protectant fungicides on a regular schedule after detection; defoliate only moderately to preserve yield while improving spray coverage."
+  },
+  "Tomato Spider Mites": {
+    "description": "Two-spotted spider mites cause stippling, bronzing, and fine webbing; populations explode under hot, dry conditions.",
+    "prevention": "Avoid dusty field edges, conserve beneficials, overhead rinse in greenhouses, and maintain adequate soil moisture.",
+    "cure": "Miticides or horticultural oils per label; rotate MOA groups; biological controls (Phytoseiulus) in enclosed systems."
+  },
+  "Tomato Target Spot": {
+    "description": "Corynespora cassiicola lesions show alternating light/dark rings resembling targets, often on mid-canopy leaves.",
+    "prevention": "Reduce leaf wetness duration, improve airflow, remove crop residues, and avoid continuous tomato monoculture.",
+    "cure": "Broad-spectrum and strobilurin/SDHI programs per local resistance management; begin at first sign in humid seasons."
+  },
+  "Tomato Mosaic Virus": {
+    "description": "ToMV/TMV causes mosaic mottling, leaf distortion, and stunting; spreads mechanically via tools, hands, and chewing insects.",
+    "prevention": "Use certified seed, wash hands/tools with milk/detergent solutions, control aphids as vectors in some settings, rogue infected plants early.",
+    "cure": "No curative spray; remove infected plants, disinfect supports, and select resistant rootstocks/cultivars next cycle."
+  },
+  "Tomato Bacterial Spot": {
+    "description": "Xanthomonas spp. produce small water-soaked specks that become raised and dark; favored by wind-driven rain and high humidity.",
+    "prevention": "Certified transplants, copper-based protectants before storms, avoid overhead irrigation, and minimize wet-field work.",
+    "cure": "Copper + ethylenediaminetetraacetic acid programs where permitted; antibiotics are restricted—follow local regulations strictly."
+  },
+  "Potato Early Blight": {
+    "description": "Alternaria on potato mirrors tomato: target lesions on senescing leaves and stem lesions that can weaken haulms before harvest.",
+    "prevention": "Balanced fertility (avoid excess N, maintain K), vine health, timely irrigation, and residue management.",
+    "cure": "Fungicide programs timed from canopy closure; ensure coverage on lower canopy where infection begins."
+  },
+  "Potato Late Blight": {
+    "description": "Rapid blighting with greasy lesions and sporulation; tubers may show reddish-brown internal necrosis if field hygiene fails.",
+    "prevention": "Destroy cull piles, use clean seed, monitor weather-based risk models, and plant resistant varieties where available.",
+    "cure": "Aggressive fungicide schedules during conducive weather; vine kill timing to protect tubers from zoospore wash."
+  },
+  "Potato Common Scab": {
+    "description": "Streptomyces spp. cause corky, raised lesions on tuber periderm, worsened by high soil pH and low moisture during tuber initiation.",
+    "prevention": "Target pH 5.2–5.5 at scab-sensitive windows, consistent soil moisture at tuber set, and resistant cultivars.",
+    "cure": "No in-season cure; adjust soil chemistry and irrigation strategy for the next crop; consider soil amendments per soil test."
+  },
+  "Wheat Leaf Rust": {
+    "description": "Puccinia triticina produces orange pustules predominantly on leaves, reducing photosynthetic area during grain fill.",
+    "prevention": "Plant resistant varieties, monitor regional rust races, manage volunteer wheat, and avoid excessive late N.",
+    "cure": "Triazole/strobilurin mixes at economic thresholds (extension thresholds); rotate fungicide classes to delay resistance."
+  },
+  "Wheat Powdery Mildew": {
+    "description": "Blumeria graminis f. sp. tritici appears as white talcum-like colonies on upper leaves in cool, humid canopies.",
+    "prevention": "Avoid excessive N, widen row spacing where practical, and select moderately resistant cultivars.",
+    "cure": "DMIs, strobilurins, or SDHIs at early head emergence per local timing guides; protect upper leaves that feed yield."
+  },
+  "Wheat Stripe Rust": {
+    "description": "Puccinia striiformis f. sp. tritici forms yellow-orange stripes parallel to leaf veins, favored by cool wet springs.",
+    "prevention": "Race-specific resistance genes in cultivar blends, early planting avoidance in high-risk windows, destroy volunteer wheat.",
+    "cure": "Fungicide application at flag leaf or earlier if epidemic onset is early; prioritize susceptible varieties in mixed fields."
+  },
+  "Rice Bacterial Leaf Blight": {
+    "description": "Xanthomonas oryzae pv. oryzae causes water-soaked to translucent lesions along leaf margins, wilting, and yield loss in humid tropics.",
+    "prevention": "Use clean seed, avoid excess N, maintain proper spacing, and drain fields judiciously to reduce humidity spikes.",
+    "cure": "Copper-based sprays where effective; systemic antibiotics are regulated—follow national guidance; remove heavily infected fields from seed production."
+  },
+  "Rice Brown Spot": {
+    "description": "Bipolaris oryzae shows small brown oval spots with gray centers, often linked to chronic low K or poor soil fertility.",
+    "prevention": "Soil-test-based K and Si amendments, balanced nutrition, and residue management to reduce inoculum carryover.",
+    "cure": "Fungicide seed treatment and foliar fungicides in high-value seed crops; correct underlying fertility for sustainable control."
+  },
+  "Rice Blast": {
+    "description": "Magnaporthe oryzae causes diamond-shaped lesions with gray centers and brown borders on leaves, nodes, and panicles.",
+    "prevention": "Resistant varieties, avoid late N flushes, maintain steady flood depth, and destroy straw where policy allows.",
+    "cure": "Triazole/strobilurin programs at booting/heading if regional models indicate risk; ensure uniform water management."
+  },
+  "Rice Sheath Blight": {
+    "description": "Rhizoctonia solani AG-1 IA produces oval green-gray lesions on leaf sheaths near waterline, with sclerotia in dense stands.",
+    "prevention": "Optimize plant density, improve drainage, silicon nutrition, and avoid excess N that drives lush canopies.",
+    "cure": "SDHI and strobilurin fungicides at early infection (internode elongation); repeat if canopy stays wet and disease advances."
+  },
+  "Rice Tungro": {
+    "description": "Virus complex (RTBV/RTSV) spread by green leafhopper causes stunting, yellow-orange discoloration, and reduced tillering.",
+    "prevention": "Resistant varieties, synchronous planting, GLH monitoring, and reflective mulches or border sprays per IPM plans.",
+    "cure": "No direct antiviral cure—rogue infected hills, manage vectors promptly, and adjust planting dates to avoid peak GLH flights."
+  }
+}
